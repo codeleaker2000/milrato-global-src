@@ -1,0 +1,24 @@
+{
+    "token": "TOKEN",
+    "prefix": "g!",
+    "globalcooldown": 2500,
+    "deletecooldown": 60000,
+    "deletefromcachecooldown": 86400000,
+    "maxlinksinshorttime": 3,
+    "maxlinksinshorttimedeletetime": 4000,
+    "botowner": [""],
+    "supportserver": "https://discord.gg/dcdev",
+    "statecolors": {
+        "BOT-OWNER": "#2f3136",
+        "User": "#57D1FF",
+        "Admin": "#FF3333",
+        "Vip": "#FFEC33",
+        "Big_Vip": "#FFA233",
+        "Boss": "#3361FF",
+        "Fighter": "#3600FF",
+        "Dancer": "#5F33FF",
+        "Stripper": "#FF57BD",
+        "Moderator": "#A9FF75",
+        "King": "#33FF5E"
+    },
+}

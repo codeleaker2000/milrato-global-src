@@ -1,0 +1,39 @@
+{
+  "name": "milrato_globalbot",
+  "version": "1.7.4",
+  "description": "A Global Bot with Images, replies, jobs and economy System, and admin System!",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tomato6966/Discord-js-Global-Bot.git"
+  },
+  "keywords": [
+    "Global",
+    "Discord",
+    "DiscordJs",
+    "Discord.js",
+    "Discord-js",
+    "Global",
+    "Bot",
+    "Global-Bot"
+  ],
+  "author": "Tomato#6966",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Tomato6966/Discord-js-Global-Bot/issues"
+  },
+  "homepage": "https://github.com/Tomato6966/Discord-js-Global-Bot#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "cron": "^1.8.2",
+    "discord.js": "^12.5.3",
+    "enmap": "^5.8.7",
+    "node-fetch": "^2.6.6"
+  },
+  "devDependencies": {
+    "node": "^16.6.1"
+  }
+}
